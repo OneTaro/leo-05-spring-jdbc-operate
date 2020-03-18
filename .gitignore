@@ -1,0 +1,11 @@
+
+/src/main/resources/templates/
+/mvnw.cmd
+/.mvn/
+/.idea/
+/target/
+/mvnw
+/HELP.md
+/leo-05-spring-jdbc-operate.iml
+/src/main/resources/static/
+/src/test/
