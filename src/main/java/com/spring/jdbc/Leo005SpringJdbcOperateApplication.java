@@ -7,10 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @author DELL
  */
 @SpringBootApplication
-public class Leo05SpringJdbcOperateApplication {
+public class Leo005SpringJdbcOperateApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Leo05SpringJdbcOperateApplication.class, args);
+        SpringApplication.run(Leo005SpringJdbcOperateApplication.class, args);
     }
 
 }
